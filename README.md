@@ -64,4 +64,9 @@ OpenRouteOptimizer is a Python-based open-source tool designed to address routin
 * Output Generation:
     * Provide results as downloadable files or reports.
 
+# Stages of implementation
+
+* Stage 1 - [Distance matrix](distance.md)
+* Stage 2 - []
+
 
